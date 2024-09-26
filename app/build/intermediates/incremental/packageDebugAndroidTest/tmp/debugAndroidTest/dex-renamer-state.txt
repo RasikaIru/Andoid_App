@@ -1,0 +1,4 @@
+#Wed Sep 25 02:08:54 IST 2024
+base.0=D\:\\SISR_android\\examples\\lite\\examples\\super_resolution\\android\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

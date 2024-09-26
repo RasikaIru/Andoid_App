@@ -1,0 +1,13 @@
+[
+{
+  "directory": "D:/SISR_android/examples/lite/examples/super_resolution/android/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "C:\\Users\\User\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe  --target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/Users/User/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/User/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DSuperResolution_EXPORTS -ID:/SISR_android/examples/lite/examples/super_resolution/android/app/src/main/cc/../../../../libraries/tensorflowlite/headers -ID:/SISR_android/examples/lite/examples/super_resolution/android/app/src/main/cc/../../../../libraries/tensorflowlite-gpu/headers  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++14 -O0 -fno-limit-debug-info  -fPIC   -std=gnu++14 -o CMakeFiles\\SuperResolution.dir\\SuperResolution_jni.cpp.o -c D:\\SISR_android\\examples\\lite\\examples\\super_resolution\\android\\app\\src\\main\\cc\\SuperResolution_jni.cpp",
+  "file": "D:\\SISR_android\\examples\\lite\\examples\\super_resolution\\android\\app\\src\\main\\cc\\SuperResolution_jni.cpp"
+},
+
+{
+  "directory": "D:/SISR_android/examples/lite/examples/super_resolution/android/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "C:\\Users\\User\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe  --target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/Users/User/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/User/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DSuperResolution_EXPORTS -ID:/SISR_android/examples/lite/examples/super_resolution/android/app/src/main/cc/../../../../libraries/tensorflowlite/headers -ID:/SISR_android/examples/lite/examples/super_resolution/android/app/src/main/cc/../../../../libraries/tensorflowlite-gpu/headers  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++14 -O0 -fno-limit-debug-info  -fPIC   -std=gnu++14 -o CMakeFiles\\SuperResolution.dir\\SuperResolution.cpp.o -c D:\\SISR_android\\examples\\lite\\examples\\super_resolution\\android\\app\\src\\main\\cc\\SuperResolution.cpp",
+  "file": "D:\\SISR_android\\examples\\lite\\examples\\super_resolution\\android\\app\\src\\main\\cc\\SuperResolution.cpp"
+}
+]

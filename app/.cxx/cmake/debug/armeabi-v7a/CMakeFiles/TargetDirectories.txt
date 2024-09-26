@@ -1,0 +1,3 @@
+D:/SISR_android/examples/lite/examples/super_resolution/android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/SuperResolution.dir
+D:/SISR_android/examples/lite/examples/super_resolution/android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/SISR_android/examples/lite/examples/super_resolution/android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir

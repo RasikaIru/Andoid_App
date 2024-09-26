@@ -1,0 +1,92 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 21 min SDK version: arm64-v8a",
+    "file": "D:\\SISR_ Final_Android\\android\\app\\src\\main\\cc\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Trying to locate CMake in local SDK repository.",
+    "file": "D:\\SISR_ Final_Android\\android\\app\\src\\main\\cc\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "CMake \u00273.30.3\u0027 found in SDK did not match requested version \u00273.6.0\u0027.",
+    "file": "D:\\SISR_ Final_Android\\android\\app\\src\\main\\cc\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "- CMake found in SDK at \u0027C:\\Users\\User\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\u0027 had version \u00273.6.0\u0027",
+    "file": "D:\\SISR_ Final_Android\\android\\app\\src\\main\\cc\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "rebuilding JSON D:\\SISR_ Final_Android\\android\\app\\.cxx\\cmake\\debug\\arm64-v8a\\android_gradle_build.json due to:",
+    "file": "D:\\SISR_ Final_Android\\android\\app\\src\\main\\cc\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "- command changed from previous, will remove stale json folder",
+    "file": "D:\\SISR_ Final_Android\\android\\app\\src\\main\\cc\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "removing stale contents from \u0027D:\\SISR_ Final_Android\\android\\app\\.cxx\\cmake\\debug\\arm64-v8a\u0027",
+    "file": "D:\\SISR_ Final_Android\\android\\app\\src\\main\\cc\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "created folder \u0027D:\\SISR_ Final_Android\\android\\app\\.cxx\\cmake\\debug\\arm64-v8a\u0027",
+    "file": "D:\\SISR_ Final_Android\\android\\app\\src\\main\\cc\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "executing cmake Executable : C:\\Users\\User\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe\narguments : \n-HD:\\SISR_ Final_Android\\android\\app\\src\\main\\cc\n-DCMAKE_BUILD_TYPE\u003dDebug\n-DCMAKE_TOOLCHAIN_FILE\u003dC:\\Users\\User\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\android.toolchain.cmake\n-DANDROID_ABI\u003darm64-v8a\n-DANDROID_NDK\u003dC:\\Users\\User\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\n-DANDROID_PLATFORM\u003dandroid-21\n-DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a\n-DCMAKE_ANDROID_NDK\u003dC:\\Users\\User\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dD:\\SISR_ Final_Android\\android\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\n-DCMAKE_MAKE_PROGRAM\u003dC:\\Users\\User\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\ninja.exe\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_SYSTEM_VERSION\u003d21\n-DANDROID_STL\u003dc++_shared\n-BD:\\SISR_ Final_Android\\android\\app\\.cxx\\cmake\\debug\\arm64-v8a\n-GNinja\njvmArgs : \n\n",
+    "file": "D:\\SISR_ Final_Android\\android\\app\\src\\main\\cc\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Executable : C:\\Users\\User\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe\narguments : \n-HD:\\SISR_ Final_Android\\android\\app\\src\\main\\cc\n-DCMAKE_BUILD_TYPE\u003dDebug\n-DCMAKE_TOOLCHAIN_FILE\u003dC:\\Users\\User\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\android.toolchain.cmake\n-DANDROID_ABI\u003darm64-v8a\n-DANDROID_NDK\u003dC:\\Users\\User\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\n-DANDROID_PLATFORM\u003dandroid-21\n-DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a\n-DCMAKE_ANDROID_NDK\u003dC:\\Users\\User\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dD:\\SISR_ Final_Android\\android\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\n-DCMAKE_MAKE_PROGRAM\u003dC:\\Users\\User\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\ninja.exe\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_SYSTEM_VERSION\u003d21\n-DANDROID_STL\u003dc++_shared\n-BD:\\SISR_ Final_Android\\android\\app\\.cxx\\cmake\\debug\\arm64-v8a\n-GNinja\njvmArgs : \n\n",
+    "file": "D:\\SISR_ Final_Android\\android\\app\\src\\main\\cc\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "done executing cmake",
+    "file": "D:\\SISR_ Final_Android\\android\\app\\src\\main\\cc\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "write build output D:\\SISR_ Final_Android\\android\\app\\.cxx\\cmake\\debug\\arm64-v8a\\build_output.txt",
+    "file": "D:\\SISR_ Final_Android\\android\\app\\src\\main\\cc\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "deleted unexpected build output D:\\SISR_ Final_Android\\android\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libc++_shared.so in incremental regenerate",
+    "file": "D:\\SISR_ Final_Android\\android\\app\\src\\main\\cc\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "write command file D:\\SISR_ Final_Android\\android\\app\\.cxx\\cmake\\debug\\arm64-v8a\\build_command.txt",
+    "file": "D:\\SISR_ Final_Android\\android\\app\\src\\main\\cc\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems",
+    "file": "D:\\SISR_ Final_Android\\android\\app\\src\\main\\cc\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  }
+]
